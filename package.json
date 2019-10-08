@@ -1,0 +1,24 @@
+{
+  "name": "node0921",
+  "version": "1.0.0",
+  "description": "justtest",
+  "main": "src/week2/index.js",
+  "scripts": {
+    "test": "echo OK"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "a",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.26",
+    "prompt": "^1.0.0",
+    "xlsx": "^0.15.1"
+  }
+}
