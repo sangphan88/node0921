@@ -16,7 +16,7 @@
   "author": "a",
   "license": "UNLICENSED",
   "dependencies": {
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.26",
     "prompt": "^1.0.0",
     "xlsx": "^0.15.1"
